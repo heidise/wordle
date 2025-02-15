@@ -23,3 +23,10 @@ User wins the game if they manage guess the word correctly before they run out o
 
 New game can be started with the button.
 
+## How to run the game:
+
+This is a Maven based JavaFX game so to run it, you need to:
+
+- `mvn clean install`
+- `mvn javafx:run`
+
